@@ -1,0 +1,702 @@
+[
+  {
+    "vignette_id": "PILOT-0001",
+    "question": "A 69-year-old right-handed patient comes to the physician for a routine health maintenance examination. On questioning, they have had some difficulty speaking for 3 months. During a conversation, they often have difficulty repeating what their interlocutor has said. The patient has hypertension and takes hydrochlorothiazide. Their vital signs are within normal limits. The patient speaks fluently in full sentences and demonstrates normal comprehension. When asked to say the word “kindergarten,” they reply with, “Sintelmarvin… no, that's wrong…kinterflargin, no that isn't it either...kantolargen...no? How about, kindergarten?” The most likely cause of the patient's symptoms is occlusion of a branch of which of the following arteries?",
+    "options": {
+      "A": "Left middle cerebral",
+      "B": "Right vertebral",
+      "C": "Left posterior inferior cerebellar",
+      "D": "Left penetrating"
+    },
+    "answer": "Left middle cerebral",
+    "answer_idx": "A",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0002",
+    "question": "A 65-year-old patient with metastatic lung cancer has been experiencing severe, unremitting pain. They have required escalating doses of oral morphine, but are now having dose limiting side-effects. The pain management team recommends using a medication that can reduce their opioid need through interaction with the NMDA-receptor. Which of the following was the most likely recommended agent?",
+    "options": {
+      "A": "Propofol",
+      "B": "Ketamine",
+      "C": "Fentanyl",
+      "D": "Midazolam"
+    },
+    "answer": "Ketamine",
+    "answer_idx": "B",
+    "category": "respiratory",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0003",
+    "question": "A healthy 23-year-old is undergoing an exercise stress test as part of their physiology class. If blood were to be sampled at different locations before and after the stress test, which area of the body would contain the lowest oxygen content at both time points?",
+    "options": {
+      "A": "Inferior vena cava",
+      "B": "Coronary sinus",
+      "C": "Pulmonary artery",
+      "D": "Pulmonary vein"
+    },
+    "answer": "Coronary sinus",
+    "answer_idx": "B",
+    "category": "cardiovascular",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0004",
+    "question": "A 23-year-old patient comes to the clinic for yellowing of their eyes. The patient has been relatively healthy and just recently started “intermittent fasting” to try to lose weight. They recall a similar episode 4 years ago when recovering from an emergency appendectomy. The patient denies smoking but endorses an episode of binge drinking 2 days ago. They are sexually active with multiple partners. Their physical examination is unremarkable besides scleral icterus. What is the most likely explanation for this patient’s symptoms?",
+    "options": {
+      "A": "Autoimmune-mediated fibrosis of biliary tract",
+      "B": "Chronic viral infection of the liver",
+      "C": "Decreased activity of UDP-glucuronosyltransferase",
+      "D": "Defective bilirubin excretion"
+    },
+    "answer": "Decreased activity of UDP-glucuronosyltransferase",
+    "answer_idx": "C",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0005",
+    "question": "A 62-year-old patient presents to the emergency department for vision changes. About 90 minutes ago, this person was on the couch watching television with a partner when they suddenly noticed that they couldn't see the screen normally. They also felt a little dizzy. This person has never had anything like this happen before. The general physical exam is unremarkable. The neurologic exam is notable for loss of vision in the right visual field of both eyes with macular sparing, though extraocular movements are intact. A computed tomography (CT) scan of the head shows no acute intracranial process. Angiography of the brain will most likely show a lesion in which of the following vessels?",
+    "options": {
+      "A": "Internal carotid artery",
+      "B": "Anterior cerebral artery",
+      "C": "Posterior cerebral artery",
+      "D": "Basilar artery"
+    },
+    "answer": "Posterior cerebral artery",
+    "answer_idx": "C",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0006",
+    "question": "A 64-year-old patient comes to the emergency department because of a 2-day history of lower back pain, fever, and chills. There has been nausea but no vomiting during this time. The patient has hypertension, chronic kidney disease, and type 2 diabetes mellitus. Three months ago, an amputation of the left third toe was performed because of a non-healing ulcer. The patient has smoked a pack of cigarettes daily for 48 years. Current medications include hydrochlorothiazide, metoprolol, and insulin. The temperature is 39.4°C (102.9°F), pulse is 102/min, blood pressure is 150/94 mm Hg, and respirations are 18/min. Examination shows a 1-cm (0.4-in) round ulcer on the sole of the right foot. There is costovertebral angle tenderness on the left side. The abdomen is soft. Laboratory studies show:\nHemoglobin 11.5 g/dL\nLeukocyte count 19,000/mm3\nSerum\nNa+ 140 mEq/L\nCl− 102 mEq/L\nK+ 5.0 mEq/L\nHCO3− 25 mEq/L\nUrea nitrogen 65 mg/dL\nCreatinine 2.4 mg/dL\nGlucose 240 mg/dL\nUrine\nBlood 1+\nProtein 1+\nWBC 100/hpf\nNitrite 2+\nWBC casts numerous\nUrine and blood samples for culture and sensitivity tests are obtained. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "Inpatient treatment with intravenous ciprofloxacin",
+      "B": "Outpatient treatment with oral levofloxacin",
+      "C": "Outpatient treatment with trimethoprim-sulfamethoxazole",
+      "D": "Initiate hemodialysis"
+    },
+    "answer": "Inpatient treatment with intravenous ciprofloxacin",
+    "answer_idx": "A",
+    "category": "diabetes",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0007",
+    "question": "A 36-year-old patient is brought to the emergency department because of multiple episodes of nonbilious emesis for 3 days. The vomitus consists of undigested food and there has also been dark brown emesis twice today. The patient has been having early satiety during this period. There has been progressive severe episodic epigastric pain and dyspepsia for the past week. The pain is partially relieved with food or over-the-counter antacids, but worsens at night and several hours after eating. There has also been a weight gain of 2 kg (4.4 lbs) during this period. A family history includes a parent who underwent surgery for colon cancer 3 years ago. The patient has smoked one pack of cigarettes daily for the last 15 years and drinks two to three beers daily. The temperature is 37.1°C (98.8°F), pulse is 106/min and blood pressure is 108/68 mm Hg. Examination shows dry mucous membranes. The abdomen is mildly tender to palpation in the left upper quadrant; there is a tympanitic mass in the epigastrium. A succussion splash is heard with a stethoscope when the patient is rocked back and forth at the hips. Bowel sounds are reduced. Rectal examination is unremarkable. Test of the stool for occult blood is positive. The remainder of the examination shows no abnormalities. Serum studies show:\nNa+ 135 mEq/L\nK+ 3.3 mEq/L\nCl- 97 mEq/L\nUrea nitrogen 46 mg/dL\nGlucose 77 mg/dL\nCreatinine 1.4 mg/dL\nWhich of the following is the underlying cause of this patient's vomiting?",
+    "options": {
+      "A": "Inflammation and edema",
+      "B": "Abnormal gastric rotation",
+      "C": "Neoplastic growth",
+      "D": "Walled-off pancreatic fluid collection"
+    },
+    "answer": "Inflammation and edema",
+    "answer_idx": "A",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0008",
+    "question": "A 41-year-old patient presents to their primary care provider with abdominal pain. They say that the pain “comes and goes” throughout the day and usually lasts 20-30 minutes per episode. They can point to the spot 1-2 inches above the umbilicus where they feel the pain. They deny any feeling of regurgitation or nighttime cough but endorse nausea. They report that they used to eat three large meals per day but have found that eating more frequently improves their pain. They tried a couple pills of ibuprofen with food over the past couple days and think it helped. They have gained four pounds since their past appointment three months ago. The patient denies any diarrhea or change in their stools. They have no past medical history. They drink 5-6 beers on the weekend and have a 20 pack-year smoking history. They deny any family history of cancer. On physical exam, they are tender to palpation above the umbilicus. Bowel sounds are present. A stool guaiac test is positive. The patient undergoes endoscopy with biopsy to diagnose their condition.\n\nWhich of the following is most likely to be found on histology?",
+    "options": {
+      "A": "Mucosal defect in the stomach",
+      "B": "Urease-producing organism in the small intestine",
+      "C": "PAS-positive material in the small intestine",
+      "D": "Crypt abscesses in the large intestine"
+    },
+    "answer": "Urease-producing organism in the small intestine",
+    "answer_idx": "B",
+    "category": "hematology",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0009",
+    "question": "A 36-year-old patient presents to their physician for a regular checkup, and they express an intent to quit smoking. The patient is a financial director with a 15-pack-year history of smoking who tried quitting several times. They tried different nicotine replacement products, none of which helped them. The patient has gastrointestinal reflux disease and takes omeprazole. The medical history is significant for a head trauma after which there were two seizure episodes. There is no history of any other disorders. Currently, the patient is not on any antiepileptic medication. They heard from a friend about an antidepressant that efficiently helps with smoking cessation. The patient would like to try this medication and asks their physician for advice. Which of the following statements regarding the use of the mentioned medication is correct?",
+    "options": {
+      "A": "Omeprazole interferes with bupropion metabolism and should be taken one hour prior to omeprazole consumption.",
+      "B": "Bupropion is only effective when used together with nicotine replacement products.",
+      "C": "Bupropion lowers the seizure threshold and it should not be taken by patients with a history of seizure disorder.",
+      "D": "The physician may prescribe bupropion for this patient only after a full cardiac workup is performed."
+    },
+    "answer": "Bupropion lowers the seizure threshold and it should not be taken by patients with a history of seizure disorder.",
+    "answer_idx": "C",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0010",
+    "question": "A 56-year-old patient is brought to the emergency department. They were found unconscious on the street. The staff recognizes them as a local homeless individual with a long history of alcoholism. At the hospital, their pulse is 95/min, the blood pressure is 110/70 mm Hg, the respirations are 20/min, and the oxygen saturation is 98% on room air. On physical exam, the unconscious patient is covered in bloody vomit with small clots and food particles. They smell of alcohol. A digital exam reveals black tarry stool in the rectal vault. The patient is given oxygen, IV fluids, and an NG-tube is placed and set to intermittent suction. Labs are sent and the patient is prepared for a procedure. Which of the following is the most appropriate next step in their management?",
+    "options": {
+      "A": "Undergo colonoscopy",
+      "B": "Undergo upper GI endoscopy",
+      "C": "Proton pump inhibitors with anti-H.pylori regimen",
+      "D": "Surgery for peptic ulcer disease"
+    },
+    "answer": "Undergo upper GI endoscopy",
+    "answer_idx": "B",
+    "category": "cardiovascular",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0011",
+    "question": "A 35-year-old patient presents to a psychiatrist for an initial consultation. They report that for the past 3 years, they have experienced several periods of depressed mood. The episodes do not coincide with any specific life events and seem to resolve after 4-6 weeks. During these episodes, they experience a depressed mood, sleep disturbances, and a poor appetite, but at times are able to enjoy spending time with their children and partner, while other times they are distressed and cannot enjoy time with them. Upon further questioning, they also report experiencing occasional episodes of elevated mood over the past ten years. During these episodes, they are very productive at work as a lawyer and require less sleep than usual. Their past medical history is notable for obesity, type I diabetes mellitus, and rheumatoid arthritis. They are on insulin and take methotrexate. They smoke marijuana occasionally. Their temperature is 99.2°F (37.3°C), blood pressure is 124/80 mmHg, pulse is 78/min, and respirations are 17/min. On exam, they are quiet with a flattened affect, but are cooperative and answer questions thoroughly. Which of the following is the most likely diagnosis in this patient?",
+    "options": {
+      "A": "Bipolar I disorder",
+      "B": "Cyclothymic disorder",
+      "C": "Persistent depressive disorder",
+      "D": "Schizoaffective disorder"
+    },
+    "answer": "Cyclothymic disorder",
+    "answer_idx": "B",
+    "category": "rheumatology",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0012",
+    "question": "A 29-year-old patient is brought to the emergency department by a concerned neighbor. The patient appears disheveled, has a flat affect, and appears to be having auditory hallucinations. They are alert and oriented to time, person, and place and have an intact long-term and short-term memory. The neighbor says that they never really knew the patient that well and that the patient mostly kept to themselves. They have been neighbors for the past 3 years at an apartment close to the hospital. What worried the neighbor was a sudden change in the patient's behavior which started last week. The patient suddenly seemed interested in attending all the local council meetings and social gatherings. They are very talkative at these events and boast highly of themselves and start suggesting changes that the committee could make with their help. The patient gets very agitated when the committee denies accepting their suggestions. Which of the following is a predictor of good prognosis for this patient's condition?",
+    "options": {
+      "A": "Affective symptoms",
+      "B": "Being single",
+      "C": "Male sex",
+      "D": "Negative symptoms"
+    },
+    "answer": "Affective symptoms",
+    "answer_idx": "A",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0013",
+    "question": "A 58-year-old patient comes to the physician because of intermittent painful retrosternal dullness for 4 weeks. The pain is recurrent and occurs when they exert themselves or when they are outside during cold weather. The patient also experiences shortness of breath and palpitations during these episodes. The symptoms resolve spontaneously when they stop or sit down for a while. Over the past few days, the episodes have increased in frequency. The patient has hypertension, type 2 diabetes mellitus, and osteoarthritis. Their left leg was amputated below the knee after a motorcycle accident 25 years ago. They are currently waiting for a new prosthesis and walk with crutches. Current medications include captopril, glyburide, and ibuprofen. The patient does not smoke or drink alcohol. Their pulse is 88/min, respirations are 20/min, and blood pressure is 144/90 mm Hg. Cardiac examination shows no abnormalities. An x-ray of the chest shows no abnormalities. An ECG shows a normal sinus rhythm without any signs of ischemia. Serum cardiac markers are within the reference range. Which of the following is the most appropriate next step in diagnosis?",
+    "options": {
+      "A": "Myocardial perfusion scan under pharmacological stress",
+      "B": "Upper endoscopy",
+      "C": "Coronary angiography",
+      "D": "Echocardiography at rest"
+    },
+    "answer": "Myocardial perfusion scan under pharmacological stress",
+    "answer_idx": "A",
+    "category": "diabetes",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0014",
+    "question": "A 65-year-old patient presents to their primary care physician for a change in behavior over the past few months. Initially, the patient was noted to be behaving inappropriately, including using foul language and grabbing people unexpectedly. This has progressed to a worsening of memory and trouble caring for themselves. Their temperature is 98.1°F (36.7°C), blood pressure is 162/103 mmHg, pulse is 83/min, respirations are 13/min, and oxygen saturation is 98% on room air. Physical exam is notable for an elderly individual who laughs inappropriately at times and who is a poor historian. When engaged in conversation, the patient exhibits word finding difficulty and is rather inattentive. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Alzheimer dementia",
+      "B": "Frontotemporal dementia",
+      "C": "Kluver-Bucy syndrome",
+      "D": "Vascular dementia"
+    },
+    "answer": "Frontotemporal dementia",
+    "answer_idx": "B",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0015",
+    "question": "A 67-year-old patient comes into the ED complaining of dyspnea and a heavy feeling in the chest. This person reports that over the past month they have become more easily “winded\" to the point that they now sleep in the living room because they can’t make it up the stairs. A review of systems is notable for headaches and fatigue. On physical exam, decreased breath sounds and dullness to percussion on the right are noted. A chest radiograph is obtained, which shows a right-sided pleural effusion. Thoracocentesis is performed and the fluid is analyzed, with results shown below:\n\nVolume: 30 cc of fluid  \nPleural fluid protein: 5.8 g/dL  \nSerum protein ratio: 7.0 g/dL  \nLactate dehydrogenase (LDH): 258 U/L  \n\nWhich of the following conditions may have led to the findings in this patient’s pleural cavity?",
+    "options": {
+      "A": "Congestive heart failure",
+      "B": "Liver cirrhosis",
+      "C": "Lymphoma",
+      "D": "Nephrotic syndrome"
+    },
+    "answer": "Lymphoma",
+    "answer_idx": "C",
+    "category": "respiratory",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0016",
+    "question": "A 75-year-old patient comes to the physician because of a 7-day history of nausea and vomiting. Over the past 2 days, they have also been feeling weak and tired. When standing up after sitting for a while, they feel dizzy. The patient says they have to go to the bathroom more often than usual, and that they are urinating “a normal amount” each time. They have not had diarrhea. The patient has hypertension, for which they have been taking hydrochlorothiazide for the past 6 months. They drink 9 glasses of water per day and take their medication regularly. The patient is 168 cm (5 ft 6 in) tall and weighs 90 kg (198 lb); BMI is 32 kg/m2. Their temperature is 36.5°C (97.7°F), blood pressure is 106/54 mm Hg, and pulse is 92/min. Physical examination shows whitening of the tongue. Skin that is pinched on the back of the hand retracts after 5 seconds. On mental status examination, their speech is slowed; they are oriented to person, place, and time. Laboratory studies show:\nSerum\nNa+ 150 mEq/L\nCl− 97 mEq/L\nK+ 3.6 mEq/L\nHCO3− 30 mEq/L\nOsmolality 354 mOsm/kg\nHemoglobin A1C 10.5%\nUrine\nOsmolality 400 mOsm/kg\nWhich of the following is the most likely explanation for these findings?",
+    "options": {
+      "A": "Diuretic overdose",
+      "B": "Osmotic diuresis",
+      "C": "Excess production of aldosterone",
+      "D": "Insufficient production of antidiuretic hormone"
+    },
+    "answer": "Osmotic diuresis",
+    "answer_idx": "B",
+    "category": "hematology",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0017",
+    "question": "A 61-year-old patient with schizophrenia in a locked inpatient psychiatry unit was observed making an unusual smacking motion with their lips, pursing their mouth, and blinking excessively. These symptoms started slowly about 2 weeks ago and have become more pronounced, but they do not seem to bother the patient. The patient resides in an inpatient psychiatric facility where they have been successfully treated with haloperidol for the past several months. Their physical exam and vitals are within normal limits. Which of the following accurately describes the patient's symptoms?",
+    "options": {
+      "A": "Tardive dyskinesia",
+      "B": "Acute dystonia",
+      "C": "Pseudoparkinsonism",
+      "D": "Palsy"
+    },
+    "answer": "Tardive dyskinesia",
+    "answer_idx": "A",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0018",
+    "question": "A 65-year-old patient comes to the physician because of a 1-week history of yellowish discoloration of their skin and generalized pruritus. Examination shows jaundice of the skin and scleral icterus. Urinalysis shows an elevated concentration of bilirubin and a low concentration of urobilinogen. Which of the following is the most likely underlying cause of these findings?",
+    "options": {
+      "A": "Absent UDP-glucuronosyltransferase activity",
+      "B": "Increased hemoglobin breakdown",
+      "C": "Increased intestinal bilirubin reabsorption",
+      "D": "Defective hepatic bile excretion"
+    },
+    "answer": "Defective hepatic bile excretion",
+    "answer_idx": "D",
+    "category": "hematology",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0019",
+    "question": "A 22-year-old patient presents to the emergency room complaining of neck stiffness. They report that their neck started “locking” three hours ago. They are now unable to move it. The past medical history is notable for schizophrenia and asthma, and the patient currently takes albuterol as well as another medication whose name they do not remember. Their temperature is 99.0°F (37.2°C), blood pressure is 130/90 mmHg, pulse is 105/min, and respirations are 18/min. On physical examination, the patient appears anxious and diaphoretic. They speak in full sentences and are oriented to person, place, and time. The patient’s neck is flexed and rotated to the right approximately 40 degrees. The right sternocleidomastoid and trapezius are firm and contracted. Extraocular movements are full and intact. Upon further questioning, the patient reports that they took more medication four hours ago because they were hearing voices. Which of the following should most likely be administered to this patient?",
+    "options": {
+      "A": "Glycopyrrolate",
+      "B": "Benztropine",
+      "C": "Levodopa",
+      "D": "Dantrolene"
+    },
+    "answer": "Benztropine",
+    "answer_idx": "B",
+    "category": "respiratory",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0020",
+    "question": "A 15-year-old patient with poorly controlled asthma presents to the emergency room complaining of severe shortness of breath. The patient's guardian reports that they had trouble breathing soon after starting to play soccer with some friends and were unable to use their inhaler as it was empty. The family history is notable for emphysema in a paternal uncle and cirrhosis in a maternal grandfather. The patient’s temperature is 99.0°F (37.2°C), blood pressure is 130/90 mmHg, pulse is 130/min, respirations are 28/min, and oxygen saturation is 91% on room air. Physical examination demonstrates wheezing bilaterally in all lung fields. The patient is started on supplemental oxygen and a nebulized bronchodilator. Which of the following is a downstream effect of this medication?",
+    "options": {
+      "A": "Decreased leukotriene activity",
+      "B": "Activation of muscarinic receptors",
+      "C": "Decreased phosphodiesterase activity",
+      "D": "Increased adenylate cyclase activity"
+    },
+    "answer": "Increased adenylate cyclase activity",
+    "answer_idx": "D",
+    "category": "respiratory",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0021",
+    "question": "A 54-year-old patient presents with fatigue, malaise, and shortness of breath over the past 5 months. Past medical history is significant for rheumatoid arthritis diagnosed 23 years ago for which they take naproxen as needed. Vital signs include: temperature 36.9°C (98.4°F), blood pressure 135/88 mm Hg, pulse 92/min. Physical examination is significant for conjunctival pallor and bilateral ulnar deviation of the metacarpophalangeal joints. Laboratory findings are significant for the following:\nHemoglobin 9.2 g/dL\nMean corpuscular volume 76 fL\nLeukocyte count 7,000/mm3\nPlatelet count 220,000/mm3\nSerum ferritin 310 ng/mL\nErythrocyte sedimentation rate 85 mm/h\nWhich of the following is a feature of this patient's anemia?",
+    "options": {
+      "A": "↑ serum transferrin receptors",
+      "B": "↑ transferrin saturation",
+      "C": "Upregulation of hepcidin",
+      "D": "↑ reticulocyte count"
+    },
+    "answer": "Upregulation of hepcidin",
+    "answer_idx": "C",
+    "category": "rheumatology",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0022",
+    "question": "A 35-year-old patient comes to the physician for the evaluation of increasing weakness and numbness of the upper extremities for 5 days. During the past 2 days, there has been urinary incontinence not related to sneezing or laughing. Last summer, there was weakness and numbness of the right lower extremity that was worse when outside; strength was regained 3 weeks later. There is no history of serious illness. The patient has had 10 sexual partners in their lifetime and uses condoms inconsistently. Vital signs are within normal limits. Examination shows an impaired tandem gait. There is mild spasticity and muscle strength is decreased in both upper extremities. Deep tendon reflexes are 4+ bilaterally. The abdominal reflex is absent. Muscle strength in the right lower extremity is mildly decreased. Sensation to vibration and fine touch is decreased over the upper extremities. Which of the following is the most appropriate next step in diagnosis?",
+    "options": {
+      "A": "Muscle biopsy",
+      "B": "Rapid plasma reagin test",
+      "C": "MRI of the brain and spine",
+      "D": "Lumbar puncture"
+    },
+    "answer": "MRI of the brain and spine",
+    "answer_idx": "C",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0023",
+    "question": "A 47-year-old patient is brought to the emergency department by paramedics. This person was found unconscious on a park bench by a bystander. Their history is unobtainable. Vitals include a pulse of 64/min, a respiratory rate of 7/min, and a blood pressure of 110/70 mm Hg. On examination, the patient is unresponsive to voice and touch but shows a flexor response to pain. Breathing is shallow. The pupils are constricted, and a response to light cannot be determined. An arterial blood gas sample reveals:\npH 7.26\nPco2 70 mm Hg\nHCO3-  26 mEq/L\nWhich of the following could explain this patient's presentation?",
+    "options": {
+      "A": "Diabetic ketoacidosis",
+      "B": "Diuretic overdose",
+      "C": "Hyperventilation",
+      "D": "Opioid overdose"
+    },
+    "answer": "Opioid overdose",
+    "answer_idx": "D",
+    "category": "cardiovascular",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0024",
+    "question": "A 67-year-old patient is hospitalized after several days of fever and increasing shortness of breath. Respiratory viral panel returns positive for influenza A and the patient is started on a standard five-day course of oseltamivir. Despite therapy, the shortness of breath continues to worsen and oxygen saturation decreases to the point where ICU transfer and intubation are required. Chest radiograph shows bilateral infiltrates. Clinical criteria are consistent with development of Acute Respiratory Distress Syndrome (ARDS). After several weeks of supportive therapy, the patient improves with lung function returning to near normal. Which of the following processes is involved in the regeneration of alveolar lining after damage to alveoli occurs?",
+    "options": {
+      "A": "Sweeping of debris out of the alveoli by ciliated cells",
+      "B": "Excess mucus production by goblet cells",
+      "C": "Proliferation of surfactant-secreting cells",
+      "D": "Proliferation of club cells"
+    },
+    "answer": "Proliferation of surfactant-secreting cells",
+    "answer_idx": "C",
+    "category": "infectious",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0025",
+    "question": "A 64-year-old patient presents to their primary care physician with a complaint of bilateral knee pain that has been present for the past several years but has worsened recently. They report pain with climbing stairs and with extended walks of greater than 100 yards. The pain worsens with activity throughout the day and is alleviated by periods of rest. The patient states that there is minimal morning stiffness, lasting approximately 5-10 minutes after waking up most days. Physical examination reveals tenderness to palpation of the bony structures on the medial aspect of the bilateral knees as well as crepitus and a decreased range of motion, limited at the extremes of flexion and extension. Both knee joints are cool to touch and exhibit bony enlargement upon palpation of the medial joint line. Which of the following studies would be indicated for further work-up of this patient's presenting condition?",
+    "options": {
+      "A": "Complete blood count (CBC)",
+      "B": "Erythrocyte sedimentation rate (ESR)",
+      "C": "MRI of the knee",
+      "D": "No further work-up needed"
+    },
+    "answer": "No further work-up needed",
+    "answer_idx": "D",
+    "category": "hematology",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0026",
+    "question": "A 55-year-old patient with a history of HIV presents to the emergency department with progressive dyspnea, fever, and dry cough for the past 4 days. The patient has not been compliant with antiretroviral or prophylactic medication. On evaluation, the patient is in moderate respiratory distress. The temperature is 38.8°C (102.0°F), the blood pressure is 124/82 mm Hg, the pulse is 96/min, and the respiratory rate is 20/min. Pulse oximetry is 92% on 4 L oxygen by nasal cannula. The CD4 count is 180 cells/μL. IV antibiotics and glucocorticoids are administered. After 30 minutes, the patient develops severe respiratory distress. Repeat vital signs show: temperature 38.3°C (101.0°F), blood pressure 80/50 mm Hg, pulse 104/min, respiration rate 32/min and pulse oximetry 85% on nasal cannula. The trachea deviates to the left. Breath sounds are absent on the right side and the neck veins are distended. Telemetry shows sinus tachycardia. Which of the following is the best next step in the management of this patient?",
+    "options": {
+      "A": "Discontinue antibiotics",
+      "B": "Perform an arterial blood gas",
+      "C": "Needle thoracostomy",
+      "D": "Stat chest X-ray"
+    },
+    "answer": "Needle thoracostomy",
+    "answer_idx": "C",
+    "category": "infectious",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0027",
+    "question": "A 33-year-old patient presents to the emergency department with altered mental status. This person was at work as a construction worker when coworkers found them down at the work site. The patient recently underwent anesthesia for an appendectomy several months ago. They also have a past medical history of schizophrenia well controlled with haloperidol and are currently taking phenytoin for epilepsy. The patient is also currently taking propranolol for anxiety and hyperthyroidism. Their temperature is 106°F (41.1°C), blood pressure is 109/62 mmHg, pulse is 170/min, respirations are 23/min, and oxygen saturation is 95% on room air. Physical exam is notable for an altered patient with a Glasgow Coma Scale of 10. This person has minimal muscle tone and is incoherent when answering questions. The patient is covered in sweat and dirt. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Exertional heat stroke",
+      "B": "Malignant hyperthermia",
+      "C": "Neuroleptic malignant syndrome",
+      "D": "Thyroid storm"
+    },
+    "answer": "Exertional heat stroke",
+    "answer_idx": "A",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0028",
+    "question": "A 22-year-old patient presents with recurrent episodes of swelling in the face, hands, and neck with occasional abdominal pain. The symptoms usually resolve in 2 to 3 days. This person has had these swelling events their whole life; however, they have become more debilitating recently. Last week, there was an event that restricted the ability to eat and swallow. Past medical history is noncontributory. A parent is alive and well with no significant medical history. A maternal relative has a similar condition. Today, the physical exam is within normal limits. A picture of the swollen hand was brought as seen in the picture. The treating physician has a strong suspicion of an inherited disorder. C1-inhibitor levels are ordered and found to be extremely low. Which of the following is the most likely diagnosis of this patient?",
+    "options": {
+      "A": "Chediak-Higashi syndrome",
+      "B": "Wiskott-Aldrich syndrome",
+      "C": "Paroxysmal nocturnal hemoglobinuria",
+      "D": "Hereditary angioedema"
+    },
+    "answer": "Hereditary angioedema",
+    "answer_idx": "D",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0029",
+    "question": "A 27-year-old patient presents for emergency surgery to reattach their left arm, severed during a high-speed car accident, and has lost significant amounts of blood. Their partner arrives within minutes to the hospital exclaiming that under no circumstance should they receive any blood transfusions during surgery. After reviewing the medical chart, you also see an annotation indicating no blood transfusions for religious reasons. Knowing that the patient needs a blood transfusion to save their life, what do you do?",
+    "options": {
+      "A": "Administer a blood transfusion to save the patient's life",
+      "B": "Call the ethics board of the hospital to discuss the issue",
+      "C": "Respect the patient's written instructions and do not adminster a blood transfusion",
+      "D": "Convince the wife to administer a blood transfusion to her husband"
+    },
+    "answer": "Respect the patient's written instructions and do not adminster a blood transfusion",
+    "answer_idx": "C",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0030",
+    "question": "A 47-year-old patient presents to their family physician with a sudden onset of severe pain and redness in their eyes that started this morning. They are having difficulty seeing properly and are extremely worried about losing their vision. Further history reveals that they have had progressive lower back pain for over 2 months now. The pain is usually at its worst in the morning, but it remains throughout the day. It gets better with movement, however, so they tend to do some light exercises every day. The patient also has heel pain and feels significant pressure while walking. Laboratory analysis reveals increased ESR and CRP serum levels. Which of the following would most likely be seen in this patient?",
+    "options": {
+      "A": "Dry mouth",
+      "B": "Malabsorption",
+      "C": "Aortic regurgitation",
+      "D": "Hemochromatosis"
+    },
+    "answer": "Aortic regurgitation",
+    "answer_idx": "C",
+    "category": "cardiovascular",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0031",
+    "question": "A 57-year-old patient presents to the emergency department with confusion. Their symptoms started a few days ago and have been gradually worsening. Initially, the patient had a fever and a cough which has progressed to abdominal pain, diarrhea, and confusion. Their temperature is 102°F (38.9°C), blood pressure is 127/68 mmHg, pulse is 120/min, respirations are 17/min, and oxygen saturation is 94% on room air. Physical exam is notable for localized crackles and decreased breath sounds in the left lower lung field. The patient is confused and is answering questions inappropriately. Laboratory studies are ordered as seen below.\n\nHemoglobin: 12 g/dL  \nHematocrit: 36%  \nLeukocyte count: 16,500/mm^3 with normal differential  \nPlatelet count: 190,000/mm^3  \n\nSerum:  \nNa+: 130 mEq/L  \nCl-: 100 mEq/L  \nK+: 4.3 mEq/L  \nHCO3-: 25 mEq/L  \nBUN: 20 mg/dL  \nGlucose: 99 mg/dL  \nCreatinine: 1.1 mg/dL  \nCa2+: 10.2 mg/dL  \n\nWhich of the following is the best diagnostic test to guide current therapy in this patient?",
+    "options": {
+      "A": "Chest radiography",
+      "B": "Lung biopsy",
+      "C": "Sputum culture",
+      "D": "Urine antigen test"
+    },
+    "answer": "Urine antigen test",
+    "answer_idx": "D",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0032",
+    "question": "A 63-year-old patient with end-stage renal disease complains of feeling lightheaded after hemodialysis sessions for the past month. This person worries they might eventually lose balance and fall. The patient has had diabetes mellitus for 22 years. Medications include folic acid, vitamin B12, amlodipine, and erythropoietin. At the clinic, blood pressure is 135/80 mm Hg when lying down before dialysis and 110/55 mm Hg when seated after hemodialysis. Cardiopulmonary examination shows no abnormal findings. Laboratory studies after hemodialysis show a Hb of 10.5 mg/dL, a blood sugar of 189 mg/dL, and a hemoglobin A1C of 7.1%. To reduce the likelihood of falls, the most appropriate management is which of the following?",
+    "options": {
+      "A": "Cooling the dialysate",
+      "B": "Eating heavier meals during dialysis",
+      "C": "Increasing ultrafiltration",
+      "D": "Steroid administration"
+    },
+    "answer": "Cooling the dialysate",
+    "answer_idx": "A",
+    "category": "diabetes",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0033",
+    "question": "A 72-year-old patient presents to their primary care physician with a 6-month history of shortness of breath. They say that they used to enjoy playing golf with friends but now cannot walk for long enough to play. The shortness of breath is now starting to complicate their ability to get around in daily life. The past medical history is significant for diabetes, hypertension, and early stage prostate cancer that was removed 10 years ago without recurrence. The patient has smoked 1 pack per day for the past 55 years and drinks about 6 drinks per week. On presentation, they are found to be breathing with pursed lips. Physical exam reveals decreased breath sounds on auscultation, increased chest diameter, and hyperresonance to percussion. Which of the following findings would most likely be seen in this patient?",
+    "options": {
+      "A": "Decreased residual volume and decreased 1 second forced expiratory volume",
+      "B": "Decreased residual volume and increased 1 second forced expiratory volume",
+      "C": "Increased residual volume and decreased 1 second forced expiratory volume",
+      "D": "Normal residual volume and decreased 1 second forced expiratory volume"
+    },
+    "answer": "Increased residual volume and decreased 1 second forced expiratory volume",
+    "answer_idx": "C",
+    "category": "diabetes",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0034",
+    "question": "A 14-year-old obese patient presents with severe right hip and knee pain. The patient says that they have been limping with mild pain for the past three weeks, but the pain acutely worsened today. They describe the pain as severe, non-radiating, sharp and aching in character, and localized to the right hip and knee joints. The patient denies recent illness, travel, trauma, or similar symptoms in the past. No significant past medical history and no current medications. The patient is not sexually active and denies any alcohol, smoking or drug use. The vital signs include: temperature 37.0°C (98.6°F), blood pressure 110/70 mm Hg, pulse 72/min, respiratory rate 15/min, and oxygen saturation 99% on room air. Body mass index (BMI) is 32 kg/m2. On physical examination, the patient is alert and cooperative. The right leg is externally rotated, and there is a limited range of motion in the right hip. Strength is 4 out of 5 at the right hip joint and 5 out of 5 elsewhere. There is no tenderness to palpation. No joint erythema, edema or effusion present. Sensation is intact. Deep tendon reflexes are 2+ bilaterally. Laboratory tests are unremarkable. Plain radiographs of the right hip joint are significant for displacement of the right femoral head inferoposterior off the femoral neck. Which of the following is the most appropriate course of treatment for this patient?",
+    "options": {
+      "A": "Reassess in 3 months",
+      "B": "Intra-articular corticosteroid injection of the right hip joint",
+      "C": "Pavlik harness",
+      "D": "Surgical pinning of the right hip"
+    },
+    "answer": "Surgical pinning of the right hip",
+    "answer_idx": "D",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0035",
+    "question": "A 20-year-old patient comes to the physician because of worsening gait unsteadiness and bilateral hearing loss for 1 month. This person has had intermittent tingling sensations on both cheeks over this time period. There is no history of serious medical illness and no medications are being taken. Audiometry shows bilateral sensorineural hearing loss. Genetic evaluation shows a mutation of a tumor suppressor gene on chromosome 22 that encodes merlin. This patient is at increased risk for which of the following conditions?",
+    "options": {
+      "A": "Renal cell carcinoma",
+      "B": "Meningioma",
+      "C": "Astrocytoma",
+      "D": "Vascular malformations"
+    },
+    "answer": "Meningioma",
+    "answer_idx": "B",
+    "category": "hematology",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0036",
+    "question": "A 26-year-old patient presents to the office complaining of persistent epigastric pain for the past 2 months. They state that their pain is worse a few hours after eating. A family member had similar symptoms. Past medical history is insignificant. The patient is a non-smoker and does not drink alcohol. The vital signs include blood pressure 120/90 mm Hg, heart rate 83/min, and temperature 37.0°C (98.6°F). Physical examination is insignificant except for mild epigastric tenderness. A metabolic panel reveals the following:  \nSerum sodium 136 mEq/L  \nSerum potassium 4.2 mEq/L  \nCalcium 13.2 mg/dL  \nBicarbonate 26 mEq/L  \nUpper gastrointestinal endoscopy reveals multiple duodenal ulcers. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Gastroesophageal reflux disease",
+      "B": "Gastric adenocarcinoma, intestinal type",
+      "C": "VIPoma",
+      "D": "MEN1"
+    },
+    "answer": "MEN1",
+    "answer_idx": "D",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0037",
+    "question": "A 60-year-old patient with a history of osteoarthritis has been awaiting hip replacement surgery for 3 years. During the annual physical, the patient reports that they have been taking over-the-counter pain medications, but that no amount of analgesics can relieve their constant pain. Laboratory results reveal that renal function has deteriorated when compared to the last office visit 2 years ago. Serum creatinine is 2.0 mg/dL, and urinalysis shows 1+ proteinuria. There are no abnormalities seen on microscopy of the urine. A renal biopsy shows eosinophilic infiltration and diffuse parenchymal inflammation. What is the most likely explanation for this patient's deterioration in renal function?",
+    "options": {
+      "A": "Focal segmental glomerulosclerosis",
+      "B": "Ischemic acute tubular necrosis",
+      "C": "Nephrotoxic acute tubular necrosis",
+      "D": "Toxic tubulointerstitial nephritis"
+    },
+    "answer": "Toxic tubulointerstitial nephritis",
+    "answer_idx": "D",
+    "category": "rheumatology",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0038",
+    "question": "A 42-year-old patient comes to the physician because of progressive fatigue and shortness of breath for 1 month. The patient has been unable to practice with a recreational soccer team and has had to rest frequently when walking to work. The only medication is ibuprofen for joint pain. Physical examination shows tanned skin. There is tenderness to palpation and stiffness of the metacarpophalangeal joints of both hands. Pulmonary examination shows coarse crackles in both lung fields. The liver is palpated 4 cm below the right costal margin. Human leukocyte antigen (HLA) testing is most likely to be positive for which of the following?",
+    "options": {
+      "A": "HLA-DR3",
+      "B": "HLA-DR4",
+      "C": "HLA-B8",
+      "D": "HLA-A3"
+    },
+    "answer": "HLA-A3",
+    "answer_idx": "D",
+    "category": "respiratory",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0039",
+    "question": "A 30-year-old patient presents to the emergency department with a recent episode of chest pain. They report that they were previously well and deny any history of similar symptoms. They state that, at onset, they felt as if they were going to die and mention that their heart has been beating really fast. There was also profuse sweating, and they say they feel short of breath. They could not recall how long the event lasted but can remember that the symptoms did go away on their own by the time they arrived at the emergency department. Their vitals rapidly returned to normal while giving their medical history, and they begin to look and act more calm. No significant past medical history or current medications. Physical examination is unremarkable. Their electrocardiogram and initial cardiac enzymes are normal. Which of the following is necessary to confirm the most likely diagnosis in this patient?",
+    "options": {
+      "A": "1 month of associated symptoms ",
+      "B": "Disruptive events lasting > 30 minutes on 2 separate occasions",
+      "C": "Family history",
+      "D": "Agoraphobia"
+    },
+    "answer": "1 month of associated symptoms ",
+    "answer_idx": "A",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0040",
+    "question": "A 13-year-old patient is brought to the emergency department by a guardian because of a 6-hour history of severe eye pain and blurry vision. The patient wears soft contact lenses and has not removed them for 2 days. Ophthalmologic examination shows a deep corneal ulcer, severe conjunctival injection, and purulent discharge on the right. Treatment with topical ciprofloxacin is initiated. A culture of the ocular discharge is most likely to show which of the following?",
+    "options": {
+      "A": "Gram-negative, non-maltose fermenting diplococci",
+      "B": "Gram-negative, lactose-fermenting bacilli",
+      "C": "Gram-negative, oxidase-positive bacilli",
+      "D": "Gram-positive, optochin-sensitive diplococci\n\""
+    },
+    "answer": "Gram-negative, oxidase-positive bacilli",
+    "answer_idx": "C",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0041",
+    "question": "A 34-year-old patient currently staying at an addiction center presents to the staff psychiatrist with diarrhea and painful muscle cramps. They have been discontinuing heroin over the last month as part of their treatment plan. The patient is HIV positive, hepatitis B (HBV) positive, and was recently treated for an infection with Streptococcus pneumoniae. They report pain over their abdomen, knees, and shoulder. To comprehensively treat these symptoms, which of the following would be the best therapy?",
+    "options": {
+      "A": "Methadone",
+      "B": "Naloxone",
+      "C": "Alvimopan",
+      "D": "Loperamide"
+    },
+    "answer": "Methadone",
+    "answer_idx": "A",
+    "category": "infectious",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0042",
+    "question": "A 44-year-old patient comes to the physician because of a 6-month history of fatigue, intermittent fever, a 4.0-kg (8.8-lb) weight loss, and a progressive, non-productive cough. The patient does not smoke. Physical examination shows mild wheezing over bilateral lung fields and enlarged supraclavicular and cervical lymph nodes. A CT scan of the chest is shown. A biopsy specimen of a cervical lymph node shows organized epithelioid histiocytes and multinucleated giant cells without focal necrosis. The initial treatment of this patient's condition should include which of the following drugs?",
+    "options": {
+      "A": "Cisplatin",
+      "B": "Lamivudine",
+      "C": "Isoniazid",
+      "D": "Prednisone"
+    },
+    "answer": "Prednisone",
+    "answer_idx": "D",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0043",
+    "question": "A 65-year-old previously healthy patient presents to the primary care physician with the chief complaint of red colored urine over the past month. They state that they do not experience dysuria. On physical exam there is no costovertebral angle tenderness. With this presentation, which is the most likely cause of this person's hematuria?",
+    "options": {
+      "A": "Bladder tumor",
+      "B": "Renal cell carcinoma",
+      "C": "Beeturia",
+      "D": "Urinary tract infection"
+    },
+    "answer": "Bladder tumor",
+    "answer_idx": "A",
+    "category": "other",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0044",
+    "question": "A 19-year-old patient is brought to the emergency department by ambulance because of unusual behavior that started 3 hours ago while at a party. The patient has a history of major depressive disorder and seasonal allergies. A family member has a history of anxiety. The patient drinks 5 beers on the weekends. Current medications include amitriptyline and diphenhydramine. The patient does not respond to questions and repeatedly says, \"The government is following me everywhere.\" The temperature is 37.9°C (100.2°F), pulse is 115/min, respirations are 24/min, and blood pressure is 160/89 mm Hg. The patient is diaphoretic. The patient is not oriented to place or time. Neurologic examination shows dilated pupils bilaterally and diffuse hyperreflexia. The feet are cold, and capillary refill time is 3 seconds. After the examination, the patient starts screaming and tries to bite the physician. Urine toxicology screening is positive for ethyl glucuronide. Which of the following is the most likely explanation for this patient's symptoms?",
+    "options": {
+      "A": "Brief psychotic disorder",
+      "B": "Neuroleptic malignant syndrome",
+      "C": "Anticholinergic toxicity",
+      "D": "Synthetic cathinone intoxication"
+    },
+    "answer": "Synthetic cathinone intoxication",
+    "answer_idx": "D",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0045",
+    "question": "A 30-year-old patient comes to the physician because of increasing weakness in both legs for 7 days. They also report a tingling sensation in their legs that is exacerbated by taking a hot shower. The patient is sexually active with one partner and does not use condoms. Their temperature is 37.8°C (100.1°F). Physical examination shows decreased muscle strength and clonus in both lower extremities. Patellar reflex is 4+ bilaterally and plantar reflex shows an extensor response on both sides. Abdominal reflex is absent. An MRI of the brain is shown. Which of the following findings is most likely to further support the diagnosis in this patient?",
+    "options": {
+      "A": "Positive antibody response to cardiolipin-cholesterol-lecithin antigen in the serum",
+      "B": "Oligodendrocytes that stain positive for polyomavirus proteins on brain biopsy",
+      "C": "Presence of immunoglobulin bands on cerebrospinal fluid immunofixation",
+      "D": "Identification of gram-positive cocci in groups on blood culture"
+    },
+    "answer": "Presence of immunoglobulin bands on cerebrospinal fluid immunofixation",
+    "answer_idx": "C",
+    "category": "infectious",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0046",
+    "question": "A 59-year-old patient presents to their primary care provider with fatigue, a progressively worsening cough with flecks of blood, shortness of breath, and dark urine. They report feeling ill for the past 3 weeks. Past medical history is significant for hypertension and hyperlipidemia. The patient takes chlorthalidone and atorvastatin. Family history is noncontributory. They have smoked 20–30 cigarettes daily for the past 26 years. Anti-glomerular basement membrane serologies are positive. Which of the following is a specific feature for this patient’s condition?",
+    "options": {
+      "A": "Granulomatous inflammation and necrotizing vasculitis",
+      "B": "Positive cryoglobulins",
+      "C": "Linear IgG staining on immunofluorescence",
+      "D": "Longitudinal splitting and thickening of the glomerular basement membrane"
+    },
+    "answer": "Linear IgG staining on immunofluorescence",
+    "answer_idx": "C",
+    "category": "hematology",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0047",
+    "question": "A 46-year-old patient presents to their primary care physician with one week of intermittent nausea and vomiting. They do not have any sick contacts, and their medical history is significant only for diabetes well-controlled on metformin. The patient also complains of some weakness and back/leg pain. They say that they recently returned from traveling abroad and had been administered an antibiotic during their travels for an unknown infection. On presentation, their temperature is 98.6°F (37°C), blood pressure is 119/78 mmHg, pulse is 62/min, and respirations are 25/min. An EKG is obtained showing flattening of the T wave. After further testing, the physician prescribes a thiazide for the patient. Which of the following diseases is also associated with this patient's most likely diagnosis?",
+    "options": {
+      "A": "Rheumatoid arthritis",
+      "B": "Sjogren syndrome",
+      "C": "Systemic lupus erythematosus",
+      "D": "Wilson disease"
+    },
+    "answer": "Wilson disease",
+    "answer_idx": "D",
+    "category": "infectious",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0048",
+    "question": "A 20-year-old patient in the army recruit collapses during an especially hot day at basic training. The patient was in their normal excellent state of health prior to this event. Two weeks ago, the patient had an upper respiratory infection (URI) but has since recovered. A family member has chronic kidney disease (CKD), bilateral hearing loss, and vision problems. At the hospital, the temperature is 40.3°C (104.5°F), blood pressure is 85/55 mm Hg, pulse is 105/min, and respiratory rate is 24/min. On physical exam, the patient appears to have altered mental status and their skin is dry, hot, and erythematous. The patient is complaining of severe bilateral flank pain and generalized myalgia. Catheterization produces 200 mL of tea-colored urine. Urine dipstick is positive for blood, but urinalysis is negative for RBCs or WBCs. Which of the following is most likely responsible for the patient's condition?",
+    "options": {
+      "A": "A mutation of the COL4A5 gene",
+      "B": "Neisseria meningitides",
+      "C": "Heat stroke",
+      "D": "IgA nephropathy"
+    },
+    "answer": "Heat stroke",
+    "answer_idx": "C",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0049",
+    "question": "A 40-year-old patient is referred to an optometrist. They complain of mild vision impairment over the last 6 months. Their vision has continued to slowly deteriorate and their condition is now affecting night driving. Past medical history is significant for well-controlled schizophrenia. They take a low-potency typical antipsychotic and a multivitamin every day. The patient has been compliant with their medication and has regular follow-up visits. What is the best first step in the management of this patient’s symptoms?",
+    "options": {
+      "A": "Decrease medication dosage",
+      "B": "Reassurance",
+      "C": "Ocular examination under anesthesia",
+      "D": "Slit-lamp examination"
+    },
+    "answer": "Slit-lamp examination",
+    "answer_idx": "D",
+    "category": "neurological",
+    "category_method": "diagnosis-based"
+  },
+  {
+    "vignette_id": "PILOT-0050",
+    "question": "A 40-year-old patient presents to your office complaining of a tender neck and general lethargy. Upon further questioning, they report decreased appetite, fatigue, constipation, and jaw pain. Their pulse is 60 bpm and their blood pressure is 130/110 mm Hg. Biopsy of the thyroid reveals granulomatous inflammation and multinucleate giant cells surrounding fragmented colloid. Which of the following likely precipitated the patient’s condition:",
+    "options": {
+      "A": "Iodine deficiency",
+      "B": "Thryoglossal duct cyst",
+      "C": "Infection",
+      "D": "Chronic renal disease"
+    },
+    "answer": "Infection",
+    "answer_idx": "C",
+    "category": "infectious",
+    "category_method": "diagnosis-based"
+  }
+]
